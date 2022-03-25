@@ -1,0 +1,17 @@
+{
+  "name": "test-wtr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "web-test-runner test/**/*.test.js --node-resolve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@esm-bundle/chai": "^4.3.4-fix.0",
+    "@web/test-runner": "^0.13.27"
+  },
+  "dependencies": {}
+}
